@@ -5,5 +5,6 @@
     "description": "Sequence logos",
     "homepage": "http://weblogo.threeplusone.com/",
     "version":"3",
-    "toolType":"Web application"
+    "toolType":"Web application",
+    "license":"MIT"
 }
