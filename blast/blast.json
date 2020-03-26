@@ -5,5 +5,5 @@
     "description": "Basic Local Alignment Search Tool.",
     "homepage": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
     "license": "MIT",
-    "version":"3"
+    "version":"4"
 }
