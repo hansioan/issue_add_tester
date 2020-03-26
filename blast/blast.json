@@ -6,5 +6,5 @@
     "homepage": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
     "license": "MIT",
     "version":"4",
-    "toolType":"Command-line tool"
+    "toolType":"Command-line tool   "
 }
