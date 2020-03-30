@@ -1,0 +1,7 @@
+
+{
+    "biotoolsID":"blast",
+    "name": "BLAST",
+    "description": "Basic Local Alignment Search Tool",
+    "homepage": "https://blast.ncbi.nlm.nih.gov/Blast.cgi"
+}
