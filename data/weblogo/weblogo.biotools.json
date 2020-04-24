@@ -1,0 +1,9 @@
+
+{
+    "biotoolsID":"weblogo",
+    "name": "WebLogo",
+    "description": "Sequence logos",
+    "homepage": "http://weblogo.threeplusone.com/",
+    "version":"3",
+    "toolType":["Web application","Command-line tool"]
+}
